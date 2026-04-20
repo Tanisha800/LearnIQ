@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+matplotlib
+seaborn
+langchain
+langchain-community
+groq
+python-dotenv
+langgraph
+duckduckgo-search
